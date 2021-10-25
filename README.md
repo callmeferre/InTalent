@@ -39,6 +39,7 @@ Para poder añadir cosas necesitas clonarte el repositorio:
   - [Colorzilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=ca)
 ### Flex
 - [Guia completa animada](https://www.youtube.com/watch?v=EVBlLkfh2V0&ab_channel=VidaMRR-Dise%C3%B1oydesarrolloweb)
+- [Guia completa](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 ## Cosas que hacen la vida más fácil
 - [Rellenador de formularios (Chrome)](https://chrome.google.com/webstore/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmififhfo?hl=es)
