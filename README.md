@@ -16,7 +16,7 @@ Para poder añadir cosas necesitas clonarte el repositorio:
 - [Guia de Git (GitHub)](https://www.youtube.com/githubguides)
 - [Guia de Git](https://rogerdudler.github.io/git-guide/index.es.html)
 - [Una lista de comandos de Git que soluciona bastante cuando se complica](https://gitexplorer.com/)
-- [Git explicato con gatos](https://girliemac.com/blog/2017/12/26/git-purr/)
+- [Git explicado con gatos](https://girliemac.com/blog/2017/12/26/git-purr/)
 
 ## Recursos HTML
 - [Chuleta](https://codeburst.io/the-complete-html-cheat-sheet-751fdae2480c)
