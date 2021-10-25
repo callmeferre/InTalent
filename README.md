@@ -35,14 +35,14 @@ Para poder añadir cosas necesitas clonarte el repositorio:
   - [Indice de paletas](https://www.begoromero.com/combinacion-paleta-de-colores-para-diseno-web/)
   - [Paletas de colores (Adobe)](https://color.adobe.com/es/create/color-wheel)
   - [Paleta de colores aplicada](https://color.cloudflare.design/)
-  - [Degradados](https://cssgradient.io/d)
+  - [Degradados](https://cssgradient.io/)
   - [Colorzilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=ca)
 ### Flex
 - [Guia completa animada](https://www.youtube.com/watch?v=EVBlLkfh2V0&ab_channel=VidaMRR-Dise%C3%B1oydesarrolloweb)
 - [Guia completa](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 ### Frameworks CSS
--[Bulma](https://bulma.io/)
--[Bootstrap](https://getbootstrap.com/)
+- [Bulma](https://bulma.io/)
+- [Bootstrap](https://getbootstrap.com/)
 
 ## Cosas que hacen la vida más fácil
 - [Rellenador de formularios (Chrome)](https://chrome.google.com/webstore/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmififhfo?hl=es)
