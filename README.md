@@ -43,8 +43,8 @@ Para poder añadir cosas necesitas clonarte el repositorio:
 ### Frameworks CSS
 - [Bulma](https://bulma.io/)
 - #### Bootstrap
-   -[Bootstrap](https://getbootstrap.com/)
-   -[Bootstrap Cheatsheet](https://hackerthemes.com/bootstrap-cheatsheet/)
+   - [Bootstrap](https://getbootstrap.com/)
+   - [Bootstrap Cheatsheet](https://hackerthemes.com/bootstrap-cheatsheet/)
 
 ## Cosas que hacen la vida más fácil
 - [Rellenador de formularios (Chrome)](https://chrome.google.com/webstore/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmififhfo?hl=es)
