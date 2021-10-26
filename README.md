@@ -42,7 +42,9 @@ Para poder añadir cosas necesitas clonarte el repositorio:
 - [Guia completa](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 ### Frameworks CSS
 - [Bulma](https://bulma.io/)
-- [Bootstrap](https://getbootstrap.com/)
+- #### Bootstrap
+   -[Bootstrap](https://getbootstrap.com/)
+   -[Bootstrap Cheatsheet](https://hackerthemes.com/bootstrap-cheatsheet/)
 
 ## Cosas que hacen la vida más fácil
 - [Rellenador de formularios (Chrome)](https://chrome.google.com/webstore/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmififhfo?hl=es)
