@@ -49,6 +49,7 @@ Para poder añadir cosas necesitas clonarte el repositorio:
 ## Cosas que hacen la vida más fácil
 - [Rellenador de formularios (Chrome)](https://chrome.google.com/webstore/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmififhfo?hl=es)
 - [ScooterSoftware: Comparador de códigos](https://www.scootersoftware.com/)
+- [Maquetador Bootstrap y Grid](https://layoutit.com/)
 
 ## Plugins de VSCode
 - [Atajos de Emmet](https://docs.emmet.io/cheat-sheet/)
