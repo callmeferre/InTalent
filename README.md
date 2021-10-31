@@ -17,6 +17,7 @@ Para poder añadir cosas necesitas clonarte el repositorio:
 - [Guia de Git](https://rogerdudler.github.io/git-guide/index.es.html)
 - [Una lista de comandos de Git que soluciona bastante cuando se complica](https://gitexplorer.com/)
 - [Git explicado con gatos](https://girliemac.com/blog/2017/12/26/git-purr/)
+- [Curso de Git y Github (de pago)](https://platzi.com/cursos/git-github/)
 
 ## Recursos HTML
 - [Chuleta](https://codeburst.io/the-complete-html-cheat-sheet-751fdae2480c)
@@ -29,8 +30,10 @@ Para poder añadir cosas necesitas clonarte el repositorio:
 
 ## Recursos CSS
 - [Chuleta](http://w3.unpocodetodo.info/css3/chuletacss3.php)
+- [State of CSS. 2020](https://2020.stateofcss.com/en-US/report/)
 - [Fuentes de texto basicas](https://www.w3.org/Style/Examples/007/fonts.en.html)
 - [Aprender selectores](https://flukeout.github.io/)
+- [5 sitios web que te ahorran tiempo al escribir CSS](https://www.linkedin.com/posts/santiagomiserere_recruitmentagencyok-programacion-developer-activity-6859123501912084480-nq_f/)
 - [Colores](https://htmlcolorcodes.com/es/)
   - [Indice de paletas](https://www.begoromero.com/combinacion-paleta-de-colores-para-diseno-web/)
   - [Paletas de colores (Adobe)](https://color.adobe.com/es/create/color-wheel)
@@ -50,6 +53,8 @@ Para poder añadir cosas necesitas clonarte el repositorio:
 - [Rellenador de formularios (Chrome)](https://chrome.google.com/webstore/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmififhfo?hl=es)
 - [ScooterSoftware: Comparador de códigos](https://www.scootersoftware.com/)
 - [Maquetador Bootstrap y Grid](https://layoutit.com/)
+- [Copiloto: AI Pair programming](https://copilot.github.com/)
+- [Tester de responsive](https://chrome.google.com/webstore/detail/responsive-viewer/inmopeiepgfljkpkidclfgbgbmfcennb)
 
 ## Plugins de VSCode
 - [Atajos de Emmet](https://docs.emmet.io/cheat-sheet/)
